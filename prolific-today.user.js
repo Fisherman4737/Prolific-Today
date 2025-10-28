@@ -288,7 +288,7 @@
 
       <div class="row tiny muted hide-when-collapsed" style="justify-content:center;gap:8px;margin-top:6px;">
         <span>Local-only • No data leaves your browser</span> •
-        <a id="pt-donate" href="https://www.paypal.com/paypalme/" target="_blank" rel="noopener" style="text-decoration:underline;">Support via PayPal ❤️</a>
+        <a id="pt-donate" href="https://paypal.me/fishermanstipjar/5" target="_blank" rel="noopener" style="text-decoration:underline;">Support via PayPal ❤️</a>
       </div>
 
       <div id="pt-tz-overlay" role="dialog" aria-label="Select Time Zone" style="display:none;">
