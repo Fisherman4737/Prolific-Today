@@ -9,6 +9,8 @@
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
+// @downloadURL https://raw.githubusercontent.com/Fisherman4737/Prolific-Today/main/prolific-today.user.js
+// @updateURL   https://raw.githubusercontent.com/Fisherman4737/Prolific-Today/main/prolific-today.user.js
 // @connect      api.exchangerate.host
 // @run-at       document-start
 // ==/UserScript==
