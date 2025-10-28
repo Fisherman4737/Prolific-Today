@@ -2,6 +2,7 @@
 // @name         Prolific Today Earnings — Market-Ready (tooltips)
 // @namespace    https://prolific.today
 // @version      3.8
+// @author       Fisherman4767
 // @description  Sums today's Approved + Awaiting Review (Reward + Adjustment, £→$ with live or manual FX). Pagination (early stop). Sleek draggable UI, dark mode, TZ picker, goals with progress (persistent), week sparkline w/ weekday labels & hover tooltips, CSV export. Local-only.
 // @match        https://app.prolific.com/submissions*
 // @grant        GM_getValue
